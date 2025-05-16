@@ -1,0 +1,26 @@
+# Secrets
+client_secret.json
+token.pickle
+
+# User data
+user_data/
+videos/
+video_db.json
+last_upload_time.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode and OS-specific
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test artifacts
+*.mp4
+*.avi
+*.mov
